@@ -1,0 +1,23 @@
+.letter{
+    font-size: 35px;
+    width: 35px;
+    display: flex;
+    pointer-events: all;
+}
+.hangman-game{
+    margin-top: 200px;
+}
+input{
+    font-size: 35px;
+    width: 35px;
+    pointer-events: none;
+}
+.inputs{
+    margin-top: -200px;
+}
+p{
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    display: flex;
+}
